@@ -1,6 +1,6 @@
 # Anthers Wiki
 
-**Empty on purpose.** This will hold the public documentation that [the Anthers platform](https://github.com/anthers-inc/anthers) renders in its own wiki — how the support model works, what a Seed does, how creators publish and get paid, and the reasoning behind the parts that are unusual.
+**Empty on purpose.** This will hold the public documentation that [the Anthers platform](https://github.com/anthers-inc/anthers) renders in its own wiki — how the support model works, where your money actually goes, how creators publish and get paid, and the reasoning behind the parts that are unusual.
 
 ## Why it is a separate repository
 
